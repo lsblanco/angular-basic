@@ -1,0 +1,34 @@
+/*angular-material styles are required to this component*/
+
+#cardContent{
+  width: 100%;
+  height: 200px;
+  display: inline-flex;
+  overflow: hidden;
+}
+#cardInfoContainer{
+  width: 60%;
+  padding-right: 30%;
+}
+
+#cardImgContainer{
+  height: auto;
+  width: 40%;
+  margin-top: 24px;
+}
+#cardImgContainer img{
+  height: auto;
+  width: 80%;
+}
+.buttonLine:hover{
+  background-color: #722d88 ;
+  color: white;
+}
+.buttonInfo{
+  text-align: left;
+  width: 100%;
+  margin-left: 5%;
+}
+.buttonInfo:hover{
+  background-color: transparent !important;
+}
