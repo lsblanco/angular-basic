@@ -6,6 +6,11 @@
 
 Changelog can be found at <a href="CHANGELOG.md" target="_blank">Link</a> 
 
+## Demo
+
+ * Link to the application demo:  [https://serenity-frontstack.github.io/angular-basic/](https://serenity-frontstack.github.io/angular-basic/)
+
+
 # Prerequisites
 
 Before we can start to develop an angular application, we need to prepare the system and install some tools that facilitate and automate the development process:
